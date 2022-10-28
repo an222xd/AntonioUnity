@@ -38,6 +38,20 @@
   * > [Laboratorio 3 - Player Control]()
   * > [Prueba 3]()
 
+  * Lección 4 - Gameplay Mechanics
+  * > [Tutorial 4 - Watch Where You’re Going ]()
+  * > [Desafío 4 - Soccer Scripting]()
+  * > [Video 4 - Soccer Scripting]()
+  * > [Laboratorio 4 - Basic Gameplay]()
+  * > [Prueba 4]()
+
+    * Lección 5 - User Interface
+  * > [Tutorial 5 - Clicky Mouse ]()
+  * > [Desafío 5 - Whack-a-Food]()
+  * > [Video 5 - Whack-a-Food]()
+  * > [Laboratorio 5 - Swap out your Assets]()
+  * > [Prueba 5]()
+
 
 ## Autor
 García Martínez José Antonio
