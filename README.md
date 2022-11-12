@@ -82,6 +82,8 @@ Vision del juego “ExeBoom”
     5.	Si encuentras un corazon tu vida aumenta 1, si ya tienes 3 no se agregará nada
 ## Ecenario
 <img src="https://drive.google.com/file/d/1PyCrq4wsQMSQBUW5zmuwobEqJjos_hxi/view?usp=sharing" alt="Logo" width=1200 height=300>
+
+
 ## Autor
 García Martínez José Antonio
 Cortez Ramírez Jose Kevyn
