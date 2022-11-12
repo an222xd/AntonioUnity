@@ -55,25 +55,26 @@
 
 
 ## Propuesta Juego
->Vision del juego “ExeBoom”
+Vision del juego “ExeBoom”
+<br>
+Es un juego donde el personaje principal es el pokemon ExeBall y tiene que salvar a su pareja que fue secuestrada por el pokemon CaptusBoss y sus secuaces Cactus. El objetivo del juego es derrotar a los Cactus del nivel para poder avanzar y enfrentar a CaptusBoss.
+<br>
+“El protagonista es el pokemon ExeBall. El y su pareja vivían en el bosque, un día el fue a buscar bayas, pero al regresar vio como los Cactus y CaptusBoss la secuestraban, ahora tiene que ir a rescatarla a su guarida, donde se tendrá que enfrentarse a esos pokemon para rescatar el amor de su vida”
+<br>
+•	Nombre del proyecto: " ExeBoom "
+<br>
+•	Objetivo: El jugador debe controlar a un personaje usando el teclado para moverlo dentro de un escenario el objetivo es, derrotar a todos los enemigos para pasar de nivel llegando a cierto puntaje se pasa al siguiente nivel, para ganar tienes que derrotar a todos los pokemones, también puedes conseguir mejoras dentro del juego como ayuda para facilitar la misión.
+<br>
+•	Plataforma, Género, Clasificación, Escenario: PC, Web, Aventura/Acción, Everyone, Bosque y Mansión, el juego tiene una vista en 3D.
+<br>
+•	Historia: Eres un ExeBall que vivía en el bosque con su pareja, pero un día mientras buscabas bayas, tu pareja fue secuestrada por los pokemones Cactus y su líder CaptusBoss, ahora hay que ir en la misión de ir a rescatarla a su guarida.
+<br>
+•	Personajes: ExeBall y Cactus, CaptusBoss.
+<br>
+•	Sonidos: Se encuentran música ambiental, así como sonidos de fondo, sonidos de bonificación, sonidos de los enemigos, sonidos del jugador
+<br>
+•	Reglas de Juego: 
 
->Es un juego donde el personaje principal es el pokemon ExeBall y tiene que salvar a su pareja que fue secuestrada por el pokemon CaptusBoss y sus secuaces Cactus. El objetivo del juego es derrotar a los Cactus del nivel para poder avanzar y enfrentar a CaptusBoss.
-
->“El protagonista es el pokemon ExeBall. El y su pareja vivían en el bosque, un día el fue a buscar bayas, pero al regresar vio como los Cactus y CaptusBoss la secuestraban, ahora tiene que ir a rescatarla a su guarida, donde se tendrá que enfrentarse a esos pokemon para rescatar el amor de su vida”
-
->•	Nombre del proyecto: " ExeBoom "
-
->•	Objetivo: El jugador debe controlar a un personaje usando el teclado para moverlo dentro de un escenario el objetivo es, derrotar a todos los enemigos para pasar de nivel llegando a cierto puntaje se pasa al siguiente nivel, para ganar tienes que derrotar a todos los pokemones, también puedes conseguir mejoras dentro del juego como ayuda para facilitar la misión.
-
->•	Plataforma, Género, Clasificación, Escenario: PC, Web, Aventura/Acción, Everyone, Bosque y Mansión, el juego tiene una vista en 3D.
-
->•	Historia: Eres un ExeBall que vivía en el bosque con su pareja, pero un día mientras buscabas bayas, tu pareja fue secuestrada por los pokemones Cactus y su líder CaptusBoss, ahora hay que ir en la misión de ir a rescatarla a su guarida.
-
->•	Personajes: ExeBall y Cactus, CaptusBoss.
-
->•	Sonidos: Se encuentran música ambiental, así como sonidos de fondo, sonidos de bonificación, sonidos de los enemigos, sonidos del jugador
-
->•	Reglas de Juego: 
 1.	Cada vez que el ataque de un pokemon te toca pierdes un corazon
 2.	Tomar las bayas, mejoraran tus ataques y velocidad
 3.	Las mejoras tienen tiempo limite
