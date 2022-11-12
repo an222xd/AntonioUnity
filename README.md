@@ -81,11 +81,24 @@ Vision del juego “ExeBoom”
     4.	Si tus vidas son igual a 0 el juego termina
     5.	Si encuentras un corazon tu vida aumenta 1, si ya tienes 3 no se agregará nada
 ## Ecenario
-<img src="https://drive.google.com/file/d/1PyCrq4wsQMSQBUW5zmuwobEqJjos_hxi/view?usp=sharing" alt="Logo" width=1200 height=300>
 
+<img src="https://raw.githubusercontent.com/an222xd/AntonioUnity/main/MaterialJuego/mansion.png" alt="Mancion" width=1200 height=300>
+
+## Personajes
+<img src="https://github.com/an222xd/AntonioUnity/blob/main/MaterialJuego/Prota.png" alt="Protagonista" width=1200 height=300>
+<img src="https://github.com/an222xd/AntonioUnity/blob/main/MaterialJuego/Villanos.png" alt="Villano" width=1200 height=300>
+
+## Potenciadores
+<img src="https://raw.githubusercontent.com/an222xd/AntonioUnity/main/MaterialJuego/mansion.png" alt="Mancion" width=1200 height=300>
+<img src="https://raw.githubusercontent.com/an222xd/AntonioUnity/main/MaterialJuego/mansion.png" alt="Mancion" width=1200 height=300>
+<img src="https://raw.githubusercontent.com/an222xd/AntonioUnity/main/MaterialJuego/mansion.png" alt="Mancion" width=1200 height=300>
+
+## Planeacion de actividades
+<img src="https://github.com/an222xd/AntonioUnity/blob/main/MaterialJuego/Cronograma.jpeg" alt="Planeacion" width=1200 height=300>
 
 ## Autor
 García Martínez José Antonio
+<br>
 Cortez Ramírez Jose Kevyn
 
 ## Lenguaje y Herramientas
