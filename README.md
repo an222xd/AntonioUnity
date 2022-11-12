@@ -80,7 +80,7 @@ Vision del juego “ExeBoom”
     3.	Las mejoras tienen tiempo limite
     4.	Si tus vidas son igual a 0 el juego termina
     5.	Si encuentras un corazon tu vida aumenta 1, si ya tienes 3 no se agregará nada
-## Ecenario
+## Escenario
 
 <img src="https://raw.githubusercontent.com/an222xd/AntonioUnity/main/MaterialJuego/mansion.png" alt="Mancion" width=1200 height=300>
 
