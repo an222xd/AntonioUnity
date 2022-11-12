@@ -82,16 +82,16 @@ Vision del juego “ExeBoom”
     5.	Si encuentras un corazon tu vida aumenta 1, si ya tienes 3 no se agregará nada
 ## Escenario
 
-<img src="https://raw.githubusercontent.com/an222xd/AntonioUnity/main/MaterialJuego/mansion.png" alt="Mancion" width=1200 height=300>
+<img src="https://raw.githubusercontent.com/an222xd/AntonioUnity/main/MaterialJuego/mansion.png" alt="Mancion" >
 
 ## Personajes
-<img src="https://github.com/an222xd/AntonioUnity/blob/main/MaterialJuego/Prota.png" alt="Protagonista" width=1200 height=300>
-<img src="https://github.com/an222xd/AntonioUnity/blob/main/MaterialJuego/Villanos.png" alt="Villano" width=1200 height=300>
+<img src="https://github.com/an222xd/AntonioUnity/blob/main/MaterialJuego/Prota.png" alt="Protagonista" >
+<img src="https://github.com/an222xd/AntonioUnity/blob/main/MaterialJuego/Villanos.png" alt="Villano" >
 
 ## Potenciadores
-<img src="https://github.com/an222xd/AntonioUnity/blob/main/MaterialJuego/Cereza.png" alt="Cerezas" width=1200 height=300>
-<img src="https://github.com/an222xd/AntonioUnity/blob/main/MaterialJuego/Platano.png" alt="Platano" width=1200 height=300>
-<img src="https://github.com/an222xd/AntonioUnity/blob/main/MaterialJuego/Uvas.png" alt="Uvas" width=1200 height=300>
+<img src="https://github.com/an222xd/AntonioUnity/blob/main/MaterialJuego/Cereza.png" alt="Cerezas" >
+<img src="https://github.com/an222xd/AntonioUnity/blob/main/MaterialJuego/Platano.png" alt="Platano" >
+<img src="https://github.com/an222xd/AntonioUnity/blob/main/MaterialJuego/Uvas.png" alt="Uvas" >
 
 ## Planeacion de actividades
 <img src="https://github.com/an222xd/AntonioUnity/blob/main/MaterialJuego/Cronograma.jpeg" alt="Planeacion" width=1200 height=300>
