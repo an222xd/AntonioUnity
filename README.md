@@ -89,9 +89,9 @@ Vision del juego “ExeBoom”
 <img src="https://github.com/an222xd/AntonioUnity/blob/main/MaterialJuego/Villanos.png" alt="Villano" width=1200 height=300>
 
 ## Potenciadores
-<img src="https://raw.githubusercontent.com/an222xd/AntonioUnity/main/MaterialJuego/mansion.png" alt="Mancion" width=1200 height=300>
-<img src="https://raw.githubusercontent.com/an222xd/AntonioUnity/main/MaterialJuego/mansion.png" alt="Mancion" width=1200 height=300>
-<img src="https://raw.githubusercontent.com/an222xd/AntonioUnity/main/MaterialJuego/mansion.png" alt="Mancion" width=1200 height=300>
+<img src="https://github.com/an222xd/AntonioUnity/blob/main/MaterialJuego/Cereza.png" alt="Cerezas" width=1200 height=300>
+<img src="https://github.com/an222xd/AntonioUnity/blob/main/MaterialJuego/Platano.png" alt="Platano" width=1200 height=300>
+<img src="https://github.com/an222xd/AntonioUnity/blob/main/MaterialJuego/Uvas.png" alt="Uvas" width=1200 height=300>
 
 ## Planeacion de actividades
 <img src="https://github.com/an222xd/AntonioUnity/blob/main/MaterialJuego/Cronograma.jpeg" alt="Planeacion" width=1200 height=300>
