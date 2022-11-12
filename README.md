@@ -13,6 +13,7 @@
 
 ## Contenido
 - [Código Fuente](#código-fuente)
+- [Propuesta Juego] (#Propuesta Juego)
 - [Autores](#autor)
 - [Lenguaje y Herramientas](#lenguaje-y-herramientas)
 - [Copyright](#copyright)
@@ -52,6 +53,23 @@
   * > [Laboratorio 5 - Swap out your Assets](https://github.com/an222xd/AntonioUnity/blob/main/Unidad%202/Laboratori05.unitypackage)
   * > [Prueba 5](https://github.com/an222xd/AntonioUnity/blob/main/Unidad%202/Quiz5.png)
 
+
+## Propuesta Juego
+Vision del juego “ExeBoom”
+Es un juego donde el personaje principal es el pokemon Exeggutor y tiene que salvar a su pareja que fue secuestrada por el pokemon gengar y sus secuaces gastly. El objetivo del juego es derrotar a los gastly del nivel para poder avanzar y enfrentar a gengar.
+“El protagonista es el pokemon Exeggutor. El y su pareja vivían en el bosque, un día el fue a buscar bayas, pero al regresar vio como los gastly y gengar la secuestraban, ahora tiene que ir a rescatarla a su guarida, donde se tendrá que enfrentarse a esos pokemon para rescatar el amor de su vida”
+•	Nombre del proyecto: " ExeBoom "
+•	Objetivo: El jugador debe controlar a un personaje usando el teclado para moverlo dentro de un escenario el objetivo es, derrotar a todos los enemigos para pasar de nivel llegando a cierto puntaje se pasa al siguiente nivel, para ganar tienes que derrotar a todos los pokemones, también puedes conseguir mejoras dentro del juego como ayuda para facilitar la misión.
+•	Plataforma, Género, Clasificación, Escenario: PC, Web, Aventura/Acción, Everyone, Bosque y Mansión, el juego tiene una vista en 3D.
+•	Historia: Eres un Exeggutor que vivía en el bosque con su pareja, pero un día mientras buscabas bayas, tu pareja fue secuestrada por los pokemones gastly y su líder gengar, ahora hay que ir en la misión de ir a rescatarla a su guarida.
+•	Personajes: Exeggutor y gastly, Gengar.
+•	Sonidos: Se encuentran música ambiental, así como sonidos de fondo, sonidos de bonificación, sonidos de los enemigos, sonidos del jugador
+•	Reglas de Juego: 
+1.	Cada vez que el ataque de un pokemon te toca pierdes un corazon
+2.	Tomar las bayas, mejoraran tus ataques
+3.	Las mejoras tienen tiempo limite
+4.	Si tus vidas son igual a 0 el juego termina
+5.	Si encuentras un corazon tu vida aumenta 1, si ya tienes 3 no se agregará nada
 
 ## Autor
 García Martínez José Antonio
